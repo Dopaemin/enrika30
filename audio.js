@@ -28,10 +28,10 @@ class SoundEngine {
       this.letterPlayer = document.getElementById('audio-player-letter') || new Audio();
       this.musicPlayer = new Audio();
 
-      // Mobile Safari Unlocking
+      // Mobile Safari Unlocking - only load if src is already assigned
       [this.bossPlayer, this.narratorPlayer, this.letterPlayer, this.musicPlayer].forEach(p => {
         try {
-          p.load();
+          if (p && p.src) p.load();
         } catch (e) {}
       });
     }
@@ -71,7 +71,21 @@ class SoundEngine {
     }
     this.init();
     this.stopAllVoices();
-    this.bossPlayer.src = src;
+
+    this.bossPlayer.volume = 1.0;
+    this.bossPlayer.muted = false;
+
+    const isSameSrc = this.bossPlayer.src && (this.bossPlayer.src.endsWith(src) || this.bossPlayer.src === src);
+    if (!isSameSrc) {
+      this.bossPlayer.src = src;
+      try {
+        this.bossPlayer.load();
+      } catch (e) {}
+    } else {
+      try {
+        this.bossPlayer.currentTime = 0;
+      } catch (e) {}
+    }
     this.currentPlaying = this.bossPlayer;
 
     let called = false;
@@ -94,12 +108,18 @@ class SoundEngine {
     };
 
     this.bossPlayer.onended = finish;
-    this.bossPlayer.onerror = finish;
     this.bossPlayer.onplaying = start;
+    this.bossPlayer.onerror = (err) => {
+      console.warn('Audio boss error event:', err, this.bossPlayer.error);
+      finish();
+    };
 
     const p = this.bossPlayer.play();
     if (p) {
-      p.then(() => start()).catch((err) => {
+      p.then(() => {
+        start();
+      }).catch((err) => {
+        console.warn('Audio boss play catch:', err);
         if (err && (err.name === 'AbortError' || err.code === 20)) {
           return;
         }
@@ -117,7 +137,21 @@ class SoundEngine {
     }
     this.init();
     this.stopAllVoices();
-    this.narratorPlayer.src = src;
+
+    this.narratorPlayer.volume = 1.0;
+    this.narratorPlayer.muted = false;
+
+    const isSameSrc = this.narratorPlayer.src && (this.narratorPlayer.src.endsWith(src) || this.narratorPlayer.src === src);
+    if (!isSameSrc) {
+      this.narratorPlayer.src = src;
+      try {
+        this.narratorPlayer.load();
+      } catch (e) {}
+    } else {
+      try {
+        this.narratorPlayer.currentTime = 0;
+      } catch (e) {}
+    }
     this.currentPlaying = this.narratorPlayer;
 
     let called = false;
@@ -140,12 +174,18 @@ class SoundEngine {
     };
 
     this.narratorPlayer.onended = finish;
-    this.narratorPlayer.onerror = finish;
     this.narratorPlayer.onplaying = start;
+    this.narratorPlayer.onerror = (err) => {
+      console.warn('Audio narrator error event:', err, this.narratorPlayer.error);
+      finish();
+    };
 
     const p = this.narratorPlayer.play();
     if (p) {
-      p.then(() => start()).catch((err) => {
+      p.then(() => {
+        start();
+      }).catch((err) => {
+        console.warn('Audio narrator play catch:', err);
         if (err && (err.name === 'AbortError' || err.code === 20)) {
           return;
         }
