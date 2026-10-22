@@ -159,7 +159,7 @@ class EnrikaGame {
       });
     }
 
-    // Intro Speech (Lord Dreißig liest das Intro vor und bounct sanft)
+    // Intro Speech: Lord Dreißig spricht ZUERST, danach übernimmt Showmaster Pablo!
     this.isIntroSpeaking = false;
     const playIntroSpeech = () => {
       if (this.isIntroSpeaking) {
@@ -170,41 +170,91 @@ class EnrikaGame {
       this.stopAllCharacterAudio();
       this.isIntroSpeaking = true;
 
-      // 1. Lord Dreißig spricht den Titel (erste ca. 3.5 Sekunden)
-      if (this.previewBossAvatar) {
-        this.previewBossAvatar.classList.add('character-talking');
-      }
-
-      // 2. Nach 3.5 Sekunden übernimmt Showmaster Pablo
-      this.introVoiceTimeout = setTimeout(() => {
-        if (this.isIntroSpeaking) {
+      // 1. Lord Dreißig spricht ZUERST (intro_boss.mp3)
+      window.soundEngine.playBoss(
+        'assets/audio/voice/intro_boss.mp3',
+        // onEnded: Lord Dreißig ist fertig
+        () => {
           if (this.previewBossAvatar) {
             this.previewBossAvatar.classList.remove('character-talking');
           }
+          if (!this.isIntroSpeaking) return;
+
+          // Kurze Pause, dann übernimmt Showmaster Pablo (start_page.mp3)
+          setTimeout(() => {
+            if (!this.isIntroSpeaking) return;
+            window.soundEngine.playNarrator(
+              'assets/audio/voice/start_page.mp3',
+              // onEnded: Pablo ist fertig
+              () => {
+                this.isIntroSpeaking = false;
+                if (this.introNarratorPortrait) {
+                  this.introNarratorPortrait.classList.remove('narrator-talking');
+                }
+              },
+              // onStart: Pablo beginnt zu reden
+              () => {
+                if (this.introNarratorPortrait) {
+                  this.introNarratorPortrait.classList.add('narrator-talking');
+                }
+              }
+            );
+          }, 320);
+        },
+        // onStart: Lord Dreißig beginnt zu reden
+        () => {
+          if (this.previewBossAvatar) {
+            this.previewBossAvatar.classList.add('character-talking');
+          }
           if (this.introNarratorPortrait) {
-            this.introNarratorPortrait.classList.add('narrator-talking');
+            this.introNarratorPortrait.classList.remove('narrator-talking');
           }
         }
-      }, 3500);
-
-      // Spielt die Intro-Audiodatei ab
-      window.soundEngine.playNarrator('assets/audio/voice/start_page.mp3', () => {
-        this.isIntroSpeaking = false;
-        if (this.introVoiceTimeout) clearTimeout(this.introVoiceTimeout);
-        if (this.previewBossAvatar) {
-          this.previewBossAvatar.classList.remove('character-talking');
-        }
-        if (this.introNarratorPortrait) {
-          this.introNarratorPortrait.classList.remove('narrator-talking');
-        }
-      });
+      );
     };
 
-    if (this.introNarratorPortrait) {
-      this.introNarratorPortrait.addEventListener('click', playIntroSpeech);
-    }
+    // Klick auf Lord Dreißig: Spielt Lord Dreißigs Intro ab
     if (this.previewBossAvatar) {
-      this.previewBossAvatar.addEventListener('click', playIntroSpeech);
+      this.previewBossAvatar.addEventListener('click', () => {
+        this.stopAllCharacterAudio();
+        this.isIntroSpeaking = true;
+        window.soundEngine.playBoss(
+          'assets/audio/voice/intro_boss.mp3',
+          () => {
+            this.isIntroSpeaking = false;
+            if (this.previewBossAvatar) {
+              this.previewBossAvatar.classList.remove('character-talking');
+            }
+          },
+          () => {
+            if (this.previewBossAvatar) {
+              this.previewBossAvatar.classList.add('character-talking');
+            }
+          }
+        );
+      });
+    }
+
+    // Klick auf Showmaster Pablo: Spielt Pablos Intro ab
+    if (this.introNarratorPortrait) {
+      this.introNarratorPortrait.addEventListener('click', () => {
+        this.stopAllCharacterAudio();
+        this.isIntroSpeaking = true;
+        window.soundEngine.playNarrator(
+          'assets/audio/voice/start_page.mp3',
+          () => {
+            this.isIntroSpeaking = false;
+            if (this.introNarratorPortrait) {
+              this.introNarratorPortrait.classList.remove('narrator-talking');
+            }
+          },
+          () => {
+            if (this.introNarratorPortrait) {
+              this.introNarratorPortrait.classList.add('narrator-talking');
+            }
+          }
+        );
+      });
     }
 
     // READY BUTTON: Blendet alles aus bis Klick, startet start_page.mp3 und enthüllt die Seite
