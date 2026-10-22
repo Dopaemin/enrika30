@@ -1328,7 +1328,11 @@ const GAME_CONFIG = {
       {
         "src": "assets/photos/taucherbrille_kueche.jpg",
         "caption": "Sicherheit geht vor: Zwiebelschneiden oder Tauchkurs in der Küche"
+      },
+      {
+        "src": "assets/photos/erster_abend_zu_zweit.jpg",
+        "caption": "Unser erster Abend zu Zwei hehe"
       }
-    ],
+    ]
   }
 };
