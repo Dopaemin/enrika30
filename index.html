@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#0b0d19">
+  <title>Level 30: Enrika & Emin gegen das Spießertum</title>
+  <meta name="description" content="Der offizielle 30er Zulassungstest für Enrika zum Geburtstag am 24. Oktober.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>30</text></svg>">
+  <link rel="stylesheet" href="style.css?v=5.5">
+</head>
+<body>
+  <!-- ========================================== -->
+  <!-- GATE / READY SCREEN (Blendet alles aus bis Klick) -->
+  <!-- ========================================== -->
+  <div id="ready-overlay" class="ready-overlay" role="dialog" aria-modal="true" aria-label="Start Gate">
+    <div class="ready-card">
+      <div class="ready-badge">OFFIZIELLER ZULASSUNGSTEST • LEVEL 30</div>
+      <h1 class="ready-title">Bist du bereit?</h1>
+      <p class="ready-desc">Lautsprecher anmachen für das beste Showdown-Erlebnis</p>
+      
+      <button id="btn-ready" class="btn-ready" type="button" aria-label="Ready">
+        <span class="btn-ready-glow"></span>
+        <span class="btn-ready-text">READY</span>
+      </button>
+
+      <div class="ready-subtext">Tippe auf READY um das Spiel zu starten</div>
+    </div>
+  </div>
+
+  <!-- Canvas for dynamic confetti celebrations -->
+  <canvas id="confetti-canvas"></canvas>
+
+  <!-- Top Navigation / Controls -->
+  <header class="top-nav">
+    <div class="logo-badge">
+      <span>ENRIKA • LEVEL 30</span>
+    </div>
+    <div class="nav-buttons">
+      <button id="btn-toggle-sound" class="icon-btn" title="Sound umschalten" aria-label="Sound umschalten">
+        Sound An
+      </button>
+      <button id="btn-restart" class="icon-btn" title="Spiel neu starten" aria-label="Neustart">
+        Neustart
+      </button>
+    </div>
+  </header>
+
+  <main class="game-container">
+    <!-- ========================================== -->
+    <!-- SCREEN 1: INTRO & BRIEFING                 -->
+    <!-- ========================================== -->
+    <section id="screen-intro" class="screen active" aria-labelledby="intro-heading">
+      <div class="hero-intro-card">
+        <div class="intro-badge">OFFIZIELLER ZULASSUNGSTEST • 24. OKTOBER 1996 BIS 2026</div>
+
+        <!-- Lord Dreißig verkündet den Titel & die Herausforderung -->
+        <div class="intro-boss-banner">
+          <div class="intro-boss-avatar-wrap" style="width: 72px; height: 72px; min-width: 72px; max-width: 72px; flex-shrink: 0;">
+            <img src="assets/boss.jpg" id="preview-boss-avatar" class="intro-boss-avatar" alt="Lord Dreißig" title="Antippen zum Anhören" width="72" height="72" style="width: 72px; height: 72px; min-width: 72px; max-width: 72px; object-fit: cover; border-radius: 50%;">
+          </div>
+          <div class="intro-boss-content">
+            <div class="intro-boss-tag">LORD DREISSIG • AMT FÜR SERIÖSITÄT</div>
+            <h1 id="intro-heading" class="intro-title" style="margin: 0; font-size: 1.45rem;">Enrika & Emin gegen das Spießertum</h1>
+          </div>
+        </div>
+
+        <!-- Showmaster Auftritt im Intro -->
+        <div id="intro-narrator-card" class="intro-narrator-card">
+          <div class="narrator-avatar-wrap" style="width: 72px; height: 72px; min-width: 72px; max-width: 72px; flex-shrink: 0;">
+            <img src="assets/narrator.jpg" id="intro-narrator-portrait" class="narrator-portrait" alt="Showmaster Pablo" title="Antippen zum Wiederholen" width="72" height="72" style="width: 72px; height: 72px; min-width: 72px; max-width: 72px; object-fit: cover; border-radius: 50%;">
+          </div>
+          <div class="narrator-bubble" style="text-align: left;">
+            <div class="narrator-badge" id="intro-narrator-badge">SHOWMASTER PABLO</div>
+            <p id="intro-narrator-text" class="narrator-bubble-text">
+              Eigentlich droht ab heute die gesetzliche Verpflichtung zu Samstagsausflügen in den Baumarkt, Tupperdosen und Gesprächen über Rückenschmerzen. Doch bevor Enrika die 30 offiziell betreten darf, prüft Lord Dreißig vom Amt für Seriösität eure Beziehung auf Herz und Nieren. Beweist ihm auf der Couch, dass ihr viel zu verliebt und viel zu unvernünftig seid, um spießig zu werden!
+            </p>
+          </div>
+        </div>
+
+        <div class="duel-preview" style="margin: 0.85rem 0 1.1rem 0;">
+          <div id="intro-hero-slot" role="button" tabindex="0" title="Foto groß anschauen" style="cursor: pointer; text-align: center;">
+            <img src="assets/heroes.jpg" id="intro-hero-avatar" alt="Enrika & Emin" class="preview-avatar" width="88" height="88" style="width: 88px; height: 88px; object-fit: cover; border-radius: 50%; border: 3px solid #10b981; box-shadow: 0 0 18px rgba(16, 185, 129, 0.45);">
+            <div class="avatar-label" style="color: #6ee7b7; font-weight: 700; margin-top: 4px;">Enrika & Emin</div>
+          </div>
+          <div class="vs-badge">VS</div>
+          <div id="intro-boss-slot" role="button" tabindex="0" title="Foto groß anschauen" style="cursor: pointer; text-align: center;">
+            <img src="assets/boss.jpg" id="intro-boss-avatar" alt="Lord Dreißig" class="preview-avatar" width="88" height="88" style="width: 88px; height: 88px; object-fit: cover; border-radius: 50%; border: 3px solid #ef4444; box-shadow: 0 0 18px rgba(239, 68, 68, 0.45);">
+            <div class="avatar-label" style="color: #f87171; font-weight: 700; margin-top: 4px;">Lord Dreißig</div>
+          </div>
+        </div>
+
+        <button id="btn-start-game" class="btn-primary" aria-label="Test starten">
+          <span>ZULASSUNGSTEST STARTEN</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- SCREEN 2: THE BATTLE ARENA                 -->
+    <!-- ========================================== -->
+    <section id="screen-battle" class="screen" aria-labelledby="encounter-title">
+      <div class="battle-arena">
+        
+        <!-- Boss HUD -->
+        <div class="boss-hud-card">
+          <div class="boss-header">
+            <div class="boss-portrait-wrap" id="boss-portrait-slot" role="button" tabindex="0" title="Foto groß anschauen" style="cursor: pointer;">
+              <img src="assets/boss.jpg" id="boss-portrait" class="boss-portrait" alt="Lord Dreißig">
+            </div>
+            <div class="boss-info">
+              <div class="boss-name-row">
+                <span id="boss-name" class="boss-name">Lord Dreißig</span>
+                <span id="boss-hp-num" class="boss-hp-numbers">3000 / 3000 HP</span>
+              </div>
+              <div class="bar-track">
+                <div id="boss-hp-fill" class="bar-fill boss-bar-fill" style="width: 100%;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Narrator Stage (Showmaster Pablo - erscheint erst nach Lord Dreißig) -->
+        <div id="narrator-stage" class="narrator-stage" style="display: none;">
+          <div class="narrator-card">
+            <div class="narrator-avatar-wrap">
+              <img src="assets/narrator.jpg" id="narrator-portrait" class="narrator-portrait" alt="Showmaster Pablo" title="Antippen zum Wiederholen">
+            </div>
+            <div class="narrator-bubble">
+              <div class="narrator-badge" id="battle-narrator-badge">SHOWMASTER PABLO</div>
+              <div id="narrator-bubble-text" class="narrator-bubble-text"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Heroes HUD Strip (Einheitliches Helden-Paar) -->
+        <div class="heroes-hud-strip">
+          <div class="heroes-info">
+            <div class="hero-avatar-wrap" id="hud-hero-avatar-slot" role="button" tabindex="0" title="Foto groß anschauen" style="cursor: pointer; flex-shrink: 0;">
+              <img src="assets/heroes.jpg" id="hud-hero-avatar" alt="Enrika & Emin" class="hero-mini-avatar">
+            </div>
+            <div class="hero-status-info" style="flex-grow: 1; min-width: 0;">
+              <div class="hero-name-row">
+                <span class="hero-title">Enrika & Emin</span>
+                <span id="hero-shield-pill" class="hero-shield-pill" style="display: none;" title="Einmaliger Schutzengel: Aktiviert sich bei drohender Niederlage!">🛡️ 1 HP Schutz</span>
+                <span id="team-hp-num" class="team-hp-numbers">100 / 100 HP</span>
+              </div>
+              <div class="bar-track team-bar-track">
+                <div id="team-hp-fill" class="bar-fill team-bar-fill" style="width: 100%;"></div>
+              </div>
+            </div>
+          </div>
+          <div id="encounter-progress" class="encounter-progress-pill" style="display: none;"></div>
+        </div>
+
+        <!-- Current Encounter Card -->
+        <div class="encounter-card">
+          <div class="encounter-header-row">
+            <div id="encounter-act" class="encounter-act-label">AUFTAKT</div>
+          </div>
+          <h2 id="encounter-title" class="encounter-title" title="Antippen zum Wiederholen">Die Akte 24. Oktober</h2>
+          <p id="encounter-narrative" class="encounter-narrative narrative-waiting">
+            Lord Dreißig startet die Kontrolle.
+          </p>
+
+          <!-- Dynamic Options, Photo Question, Couple Duel or Live Challenge injected via app.js -->
+          <div id="encounter-content"></div>
+
+          <!-- Toast Message for Hit Reaction -->
+          <div id="battle-toast" class="battle-toast" style="display: none;"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- SCREEN 3: VICTORY & PERSONAL LOVE REWARD   -->
+    <!-- ========================================== -->
+    <section id="screen-victory" class="screen" aria-labelledby="victory-heading">
+      <div class="victory-card">
+        <div class="victory-crest">
+          <img src="assets/heroes.jpg" alt="Enrika & Emin">
+        </div>
+
+        <div class="victory-badge">ZULASSUNGSTEST ERFOLGREICH BESTANDEN</div>
+        <h1 id="victory-heading" class="victory-title">Herzlichen Glückwunsch zum 30. Geburtstag, Enrika!</h1>
+
+        <div class="defeat-speech" id="victory-speech">
+          Ich gebe mich geschlagen. Ihr seid weder spießig noch vernünftig geworden. Ihr seid einfach nur unverschämt verliebt und habt viel zu viel Spaß zusammen. Level 30 ist hiermit offiziell freigegeben.
+        </div>
+
+        <!-- Heavy Metal Victory Rock Banner -->
+        <div class="victory-rock-box">
+          <div class="rock-box-header">
+            <span class="rock-fire-badge">🔥 LEVEL 30 METAL ANTHEM 🔥</span>
+          </div>
+          <button id="btn-replay-rock-song" class="btn-rock-song" type="button" aria-label="Metal-Geburtstagssong abspielen">
+            <span class="rock-icon">🎸⚡️</span>
+            <span id="rock-btn-label">Metal-Geburtstagssong abspielen (22s)</span>
+          </button>
+        </div>
+
+        <!-- Romantic Birthday Letter -->
+        <div class="letter-envelope">
+          <div class="letter-audio-bar">
+            <button id="btn-play-letter" class="btn-letter-audio" type="button">Liebesbrief vorlesen lassen</button>
+          </div>
+          <div id="love-letter-content">
+            <!-- Populated from gameData.js -->
+          </div>
+        </div>
+
+        <!-- Memories & Photo Gallery -->
+        <div class="gallery-section">
+          <h2 class="section-subtitle">Unsere gemeinsamen Meilensteine</h2>
+          <div class="polaroid-grid" id="polaroid-grid">
+            <!-- Polaroids dynamically inserted here -->
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- SCREEN 4: DEFEAT / SPIESSER-FALLE          -->
+    <!-- ========================================== -->
+    <section id="screen-defeat" class="screen" aria-labelledby="defeat-heading">
+      <div class="hero-intro-card defeat-card">
+        <div class="intro-badge" style="background: rgba(239, 68, 68, 0.2); border-color: #ef4444; color: #fca5a5;">
+          BEHÖRDEN-BESCHLUSS • ZULASSUNG VERWEIGERT
+        </div>
+        <div class="defeat-boss-avatar-wrap" style="margin: 1.2rem 0;">
+          <img src="assets/boss.jpg" class="preview-avatar" style="border-color: #ef4444; box-shadow: 0 0 30px rgba(239, 68, 68, 0.6); margin: 0 auto;" alt="Lord Dreißig triumphiert">
+        </div>
+        <h2 id="defeat-heading" class="intro-title" style="color: #ef4444; margin-top: 0.5rem;">Lord Dreißig hat gesiegt!</h2>
+        <p class="intro-subtitle" style="max-width: 680px; margin: 0.8rem auto 1.4rem auto;">
+          Eure Lebensenergie ist aufgebraucht! Das Amt für Seriösität verhängt die sofortige Spießer-Pflicht: Samstags früh um 7 Uhr in den Baumarkt, endlose Diskussionen über Tupperdosen und keine unvernünftigen Späße mehr. Ihr seid offiziell spießig!
+        </p>
+        <button id="btn-retry-game" class="btn-primary" style="background: linear-gradient(135deg, #f43f5e, #ec4899); max-width: 420px;" aria-label="Spiel neu starten">
+          <span>NEU STARTEN (VON VORNE BEGINNEN)</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Lightbox for Tap-to-Enlarge on Photos -->
+    <div id="image-lightbox" class="lightbox-modal" role="dialog" aria-modal="true" aria-label="Foto vergrößern">
+      <div id="lightbox-close" class="lightbox-close">✕</div>
+      <div class="lightbox-content-wrap" style="display: flex; flex-direction: column; align-items: center; max-width: 96vw; max-height: 90vh;">
+        <img id="lightbox-img" class="lightbox-image" src="" alt="Foto Vollansicht">
+        <div id="lightbox-caption" class="lightbox-caption" style="display: none;"></div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Persistent Audio Players for mobile & iPad Safari -->
+  <audio id="audio-player-boss" preload="auto"></audio>
+  <audio id="audio-player-narrator" preload="auto"></audio>
+  <audio id="audio-player-letter" preload="auto"></audio>
+
+  <!-- Scripts -->
+  <script src="audio.js?v=5.5"></script>
+  <script src="confetti.js?v=5.5"></script>
+  <script src="gameData.js?v=5.5"></script>
+  <script src="app.js?v=5.5"></script>
+</body>
+</html>

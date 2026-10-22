@@ -1,0 +1,170 @@
+===================================================================
+SPRECHTEXTE FUER DEINE AI (ELEVENLABS / OPENAI / TTS)
+Dateien einfach als MP3 im Ordner: assets/audio/voice/ speichern
+===================================================================
+
+--- TEIL 1: LORD DREISSIG (BÖSEWICHT / BÜROKRAT) ---
+Stimm-Tipp: Trocken, leicht hochnäsig, amüsant, bürokratisch wie ein deutscher Beamter
+
+DATEINAME: round_1_boss.mp3
+KATEGORIE: AUFTAKT | TITEL: Die Akte 24. Oktober
+TEXT: Akte Enrika liegt auf meinem Tisch. Dreißig Jahre alt, verheiratet, reist gern. Mein Auftrag ist glasklar: Ab heute gelten strenge Regeln für Ernsthaftigkeit und vernünftige Bettgehzeiten.
+
+DATEINAME: round_2_boss.mp3
+KATEGORIE: FOTO VERHÖR | TITEL: Das Geheimnis des Lachanfalls
+TEXT: Auf diesem Foto lacht Enrika verdächtig ehrlich. Niemand kichert einfach so vor einer Felswand. Was war da wirklich los?
+
+DATEINAME: round_3_boss.mp3
+KATEGORIE: PAAR DUELL | TITEL: Das Pommes Gesetz
+TEXT: Jetzt kommen wir zu den tiefen Abgründen des Ehealltags. Bei Essen hört die Freundschaft bekanntlich auf.
+
+DATEINAME: round_4_boss.mp3
+KATEGORIE: LIVE MISSION | TITEL: Der Handtaschen Schnelltest
+TEXT: Frauenhandtaschen sind ein schwarzes Loch für Raum und Zeit. Kein Ehemann dieser Welt weiß was sich darin befindet.
+
+DATEINAME: round_5_boss.mp3
+KATEGORIE: FOTO VERHÖR | TITEL: Traumausblick mit Meeresrauschen
+TEXT: Steinbogen, blaues Meer, zwei Kaffeetassen. Ein Bild wie aus einem Reisekatalog. Wann genau fand dieser Ausblick statt?
+
+DATEINAME: round_6_boss.mp3
+KATEGORIE: FOTO VERHÖR | TITEL: Vollgas im Elektroflitzer
+TEXT: Ein schickes Elektroauto mit ordentlich Drehmoment. Emin gibt den Schlüssel normalerweise nicht ohne Herzrasen her.
+
+DATEINAME: round_7_boss.mp3
+KATEGORIE: PAAR DUELL | TITEL: Google Maps gegen Männerstolz
+TEXT: Im Auto fallen alle Masken. Wer hat bei der Routenführung wirklich das letzte Wort?
+
+DATEINAME: round_8_boss.mp3
+KATEGORIE: FOTO VERHÖR | TITEL: Romantik am Atlantik
+TEXT: Dunkle Nacht, sanfte Wellen, warmer Sand. Was war das Besondere an genau diesem Abend?
+
+DATEINAME: round_9_boss.mp3
+KATEGORIE: PAAR DUELL | TITEL: Die schwerste Frage der Menschheit
+TEXT: Es ist Samstagabend, der Magen knurrt. Der Ernst des Lebens schlägt mit voller Wucht zu.
+
+DATEINAME: round_10_boss.mp3
+KATEGORIE: FOTO VERHÖR | TITEL: Frischer Wind über zwei Kontinenten
+TEXT: Kapuze tief im Gesicht, Sonnenbrille sitzt, Möwen kreisen über dem Wasser. In welchem Monat fand diese Seefahrt statt?
+
+DATEINAME: round_11_boss.mp3
+KATEGORIE: LIVE MISSION | TITEL: 30 Sekunden Augenduell
+TEXT: Nach so vielen Jahren schaut man sich doch nur noch aufs Display anstatt in die Augen. Das widerlegt ihr mir im Leben nicht.
+
+DATEINAME: round_12_boss.mp3
+KATEGORIE: PAAR DUELL | TITEL: Logistik vor der Abreise
+TEXT: Reisen erfordert Disziplin und Minimalismus. Wer von euch beiden übertreibt beim Packen maßlos?
+
+DATEINAME: round_13_boss.mp3
+KATEGORIE: HOCHZEITSSPEZIAL | TITEL: Das offizielle Ja Wort
+TEXT: Unterschrift geleistet, Ringe am Finger. Ein rechtsgültiger Bund fürs Leben. Was war der wahre Gedanke in dieser Sekunde?
+
+DATEINAME: round_14_boss.mp3
+KATEGORIE: LIVE MISSION | TITEL: Die Pose des Jahrhunderts
+TEXT: Euer Foto vor der Rosenwand ist legendär. Enrika strahlt elegant, Emin zieht seine unnachahmliche Grimasse. Macht mir das jetzt nach.
+
+DATEINAME: round_15_boss.mp3
+KATEGORIE: PAAR DUELL | TITEL: Der beste Freund des Hauses
+TEXT: Onlinebestellungen und Pappkartons. Wer von euch beiden hält die Konsumwirtschaft am Laufen?
+
+DATEINAME: round_16_boss.mp3
+KATEGORIE: DER EHE TEST | TITEL: Enrikas geheime Superkraft
+TEXT: Dreißig Jahre Enrika. Was macht diese Frau eigentlich so besonders dass Emin sie jeden Tag anhimmelt wie am ersten Tag?
+
+DATEINAME: round_17_boss.mp3
+KATEGORIE: LIVE MISSION | TITEL: Zwanzig Sekunden Liebesfeuer
+TEXT: Mein System steht kurz vor dem Kollaps. Ihr wollt den Sieg? Dann beweist mir wie schnell ihr euch nette Dinge sagen könnt.
+
+DATEINAME: round_18_boss.mp3
+KATEGORIE: DAS FINALE | TITEL: Der 30er Kuss
+TEXT: Mein letzter Funke Widerstand. Dreißig Jahre Enrika lassen sich nicht aufhalten. Zeigt mir den finalen Abschluss.
+
+DATEINAME: victory_boss.mp3
+TEXT: Ich gebe mich geschlagen. Ihr seid weder spießig noch vernünftig geworden. Ihr seid einfach nur unverschämt verliebt und habt viel zu viel Spaß zusammen. Level 30 ist hiermit offiziell freigegeben.
+
+
+===================================================================
+--- TEIL 2: DER ERZÄHLER / SPIELLEITER ---
+Stimm-Tipp: Sympathischer, charismatischer Game-Show Host
+
+DATEINAME: start_page.mp3
+TITEL: Intro - Enrika & Emin gegen das Spießertum
+TEXT: Eigentlich droht ab heute die gesetzliche Verpflichtung zu Samstagsausflügen in den Baumarkt, Tupperdosen und Gesprächen über Rückenschmerzen. Doch bevor Enrika die 30 offiziell betreten darf, prüft Lord Dreißig vom Amt für Seriösität eure Beziehung auf Herz und Nieren. Beweist ihm auf der Couch, dass ihr viel zu verliebt und viel zu unvernünftig seid, um spießig zu werden!
+
+DATEINAME: round_1_narrator.mp3
+TITEL: Die Akte 24. Oktober
+TEXT: Lord Dreißig startet die Kontrolle. Mit welcher Einstellung wehrt ihr den ersten bürokratischen Angriff ab?
+
+DATEINAME: round_2_narrator.mp3
+TITEL: Das Geheimnis des Lachanfalls
+TEXT: Warum musste Enrika bei diesem wunderschönen Shooting vor den Felsen so unendlich herzlich lachen?
+
+DATEINAME: round_3_narrator.mp3
+TITEL: Das Pommes Gesetz
+TEXT: Schaut euch an und tippt gleichzeitig. Wer von euch beiden bestellt nur einen kleinen Salat weil angeblich kein Hunger da ist, isst dann aber die Hälfte von Emins Pommes weg? Wer behauptet keinen Hunger zu haben und isst dann fremde Pommes?
+
+DATEINAME: round_4_narrator.mp3
+TITEL: Der Handtaschen Schnelltest
+TEXT: Emin muss jetzt innerhalb von 20 Sekunden vier Gegenstände aufzählen die aktuell in Enrikas Handtasche liegen. Enrika kontrolliert live auf der Couch. Startet den Timer. Emin zählt vier Gegenstände auf. Enrika gibt das Urteil.
+
+DATEINAME: round_5_narrator.mp3
+TITEL: Traumausblick mit Meeresrauschen
+TEXT: Wann haben Enrika und Emin diesen wunderschönen Ausblick bei einem Kaffee genossen?
+
+DATEINAME: round_6_narrator.mp3
+TITEL: Vollgas im Elektroflitzer
+TEXT: Wann durfte Enrika das allererste Mal das neue Auto selbst über den Asphalt steuern?
+
+DATEINAME: round_7_narrator.mp3
+TITEL: Google Maps gegen Männerstolz
+TEXT: Schaut euch an und stimmt ab. Wer verfährt sich laut Navigation um einen halben Kilometer und behauptet felsenfest das sei eine geheime Abkürzung? Wer weigert sich umzudrehen weil das angeblich eine Abkürzung ist?
+
+DATEINAME: round_8_narrator.mp3
+TITEL: Romantik am Atlantik
+TEXT: Was war der unvergessliche Anlass für dieses wunderschöne Foto am Strand?
+
+DATEINAME: round_9_narrator.mp3
+TITEL: Die schwerste Frage der Menschheit
+TEXT: Wer von euch beiden sagt zuerst mir ist total egal was wir essen, lehnt dann aber fünf Restaurants hintereinander ab? Wer sagt mir egal, findet dann aber an jedem Vorschlag einen Haken?
+
+DATEINAME: round_10_narrator.mp3
+TITEL: Frischer Wind über zwei Kontinenten
+TEXT: Wann fand diese stürmische und wunderschöne Bootsfahrt in Istanbul statt?
+
+DATEINAME: round_11_narrator.mp3
+TITEL: 30 Sekunden Augenduell
+TEXT: iPad oder Handy ablegen. Schaut euch dreißig Sekunden lang tief in die Augen ohne wegzusehen und ohne zu grinsen. Startet den Timer. Dreißig Sekunden ehrlicher Blickkontakt. Wer zuerst kichert verliert.
+
+DATEINAME: round_12_narrator.mp3
+TITEL: Logistik vor der Abreise
+TEXT: Schaut euch an und tippt. Wer packt für einen Dreitageausflug vierzehn verschiedene Outfits ein für den Fall eines spontanen Empfangs beim Bundespräsidenten? Wer packt dreimal mehr Kleidung ein als jemals getragen werden kann?
+
+DATEINAME: round_13_narrator.mp3
+TITEL: Das offizielle Ja Wort
+TEXT: Was ging euch beiden bei der Unterschrift im Standesamt durch den Kopf?
+
+DATEINAME: round_14_narrator.mp3
+TITEL: Die Pose des Jahrhunderts
+TEXT: Stellt genau diese Pose gemeinsam auf der Couch für fünfzehn Sekunden nach. Enrika stützt das Kinn sanft auf die Hände, Emin zieht seine berühmte Grimasse. Fünfzehn Sekunden halten.
+
+DATEINAME: round_15_narrator.mp3
+TITEL: Der beste Freund des Hauses
+TEXT: Wer von euch beiden bekommt mehr Pakete geliefert und versteckt die Kartons dezent im Flur? Wer kennt den DHL Boten mit Vornamen und bekommt täglich Päckchen?
+
+DATEINAME: round_16_narrator.mp3
+TITEL: Enrikas geheime Superkraft
+TEXT: Was ist Enrikas stärkste und schönste Eigenschaft?
+
+DATEINAME: round_17_narrator.mp3
+TITEL: Zwanzig Sekunden Liebesfeuer
+TEXT: Zwanzig Sekunden lang abwechselnd ohne Pause Komplimente machen. Startet den Timer. Abwechselnd im Sekundentakt etwas Nettes sagen ohne zu stocken und ohne zu zögern.
+
+DATEINAME: round_18_narrator.mp3
+TITEL: Der 30er Kuss
+TEXT: Der feierliche Moment. Besiegelt den offiziellen Eintritt in das beste Jahrzehnt eures Lebens. Nehmt euch fest in den Arm, gebt euch einen innigen Geburtstagskuss und wünscht euch gemeinsam das beste Lebensjahr aller Zeiten.
+
+
+===================================================================
+--- TEIL 3 (OPTIONAL): DER LIEBESBRIEF (EMIN ODER EMOTIONALE STIMME) ---
+DATEINAME: victory_letter.mp3
+TEXT: Liebe Enrika, heute feierst du deinen 30. Geburtstag, und wenn dieses Spiel eines bewiesen hat, dann dass wir gemeinsam jedes Abenteuer meistern und absolut unschlagbar sind. Mit 30 beginnt nicht einfach nur ein neues Jahrzehnt, sondern das bisher schönste, aufregendste und glücklichste Kapitel deines Lebens. Du bist eine so unglaublich starke, wunderschöne, warmherzige und besondere Frau. Danke für jedes Lächeln, jede Reise, jeden geteilten Lachanfall und jeden einzelnen Tag, den ich mit dir verbringen darf. Mit dir an meiner Seite ist jeder Tag der größte Hauptgewinn. Ich liebe dich von ganzem Herzen und freue mich auf jedes weitere Jahr und alle Abenteuer, die noch vor uns liegen. Auf dich, dein neues Jahrzehnt und das glücklichste Level 30 aller Zeiten!
+

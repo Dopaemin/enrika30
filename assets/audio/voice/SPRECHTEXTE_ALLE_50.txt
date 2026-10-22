@@ -1,0 +1,478 @@
+======================================================================
+ENRIKA & EMIN - LEVEL 30: VOLLSTÄNDIGE SPRECHTEXTE (ALLE 50 RUNDEN)
+Inklusive automatischer Einbindung der Antwortmöglichkeiten A, B, C
+======================================================================
+
+--- TEIL 1: LORD DREISSIG (BÖSEWICHT / BÜROKRAT) ---
+Stimm-Tipp: Hochnäsig, bürokratisch, tief & amüsant-trocken
+
+DATEINAME: round_1_boss.mp3
+TITEL: Die Akte 24. Oktober | KATEGORIE: AUFTAKT
+TEXT: Akte Enrika liegt auf meinem Tisch. Dreißig Jahre alt, verheiratet, reist gern. Mein Auftrag ist glasklar: Ab heute gelten strenge Regeln für Ernsthaftigkeit und vernünftige Bettgehzeiten.
+
+DATEINAME: round_2_boss.mp3
+TITEL: Das Geheimnis des Lachanfalls | KATEGORIE: FOTO VERHÖR
+TEXT: Auf diesem Foto lacht Enrika verdächtig ehrlich. Niemand kichert einfach so vor einer Felswand. Was war da wirklich los?
+
+DATEINAME: round_3_boss.mp3
+TITEL: Das Pommes Gesetz | KATEGORIE: PAAR DUELL
+TEXT: Jetzt kommen wir zu den tiefen Abgründen des Ehealltags. Bei Essen hört die Freundschaft bekanntlich auf.
+
+DATEINAME: round_4_boss.mp3
+TITEL: Der Handtaschen Schnelltest | KATEGORIE: LIVE MISSION
+TEXT: Frauenhandtaschen sind ein schwarzes Loch für Raum und Zeit. Kein Ehemann dieser Welt weiß was sich darin befindet.
+
+DATEINAME: round_5_boss.mp3
+TITEL: Traumausblick mit Meeresrauschen | KATEGORIE: FOTO VERHÖR
+TEXT: Steinbogen, blaues Meer, zwei Kaffeetassen. Ein Bild wie aus einem Reisekatalog. Wann genau fand dieser Ausblick statt?
+
+DATEINAME: round_6_boss.mp3
+TITEL: Vollgas im Elektroflitzer | KATEGORIE: FOTO VERHÖR
+TEXT: Ein schickes Elektroauto mit ordentlich Drehmoment. Emin gibt den Schlüssel normalerweise nicht ohne Herzrasen her.
+
+DATEINAME: round_7_boss.mp3
+TITEL: Google Maps gegen Männerstolz | KATEGORIE: PAAR DUELL
+TEXT: Im Auto fallen alle Masken. Wer hat bei der Routenführung wirklich das letzte Wort?
+
+DATEINAME: round_8_boss.mp3
+TITEL: Romantik am Atlantik | KATEGORIE: FOTO VERHÖR
+TEXT: Dunkle Nacht, sanfte Wellen, warmer Sand. Was war das Besondere an genau diesem Abend?
+
+DATEINAME: round_9_boss.mp3
+TITEL: Die schwerste Frage der Menschheit | KATEGORIE: PAAR DUELL
+TEXT: Es ist Samstagabend, der Magen knurrt. Der Ernst des Lebens schlägt mit voller Wucht zu.
+
+DATEINAME: round_10_boss.mp3
+TITEL: Frischer Wind über zwei Kontinenten | KATEGORIE: FOTO VERHÖR
+TEXT: Kapuze tief im Gesicht, Sonnenbrille sitzt, Möwen kreisen über dem Wasser. In welchem Monat fand diese Seefahrt statt?
+
+DATEINAME: round_11_boss.mp3
+TITEL: 30 Sekunden Augenduell | KATEGORIE: LIVE MISSION
+TEXT: Nach so vielen Jahren schaut man sich doch nur noch aufs Display anstatt in die Augen. Das widerlegt ihr mir im Leben nicht.
+
+DATEINAME: round_12_boss.mp3
+TITEL: Logistik vor der Abreise | KATEGORIE: PAAR DUELL
+TEXT: Reisen erfordert Disziplin und Minimalismus. Wer von euch beiden übertreibt beim Packen maßlos?
+
+DATEINAME: round_13_boss.mp3
+TITEL: Das offizielle Ja Wort | KATEGORIE: HOCHZEITSSPEZIAL
+TEXT: Unterschrift geleistet, Ringe am Finger. Ein rechtsgültiger Bund fürs Leben. Was war der wahre Gedanke in dieser Sekunde?
+
+DATEINAME: round_14_boss.mp3
+TITEL: Die Pose des Jahrhunderts | KATEGORIE: LIVE MISSION
+TEXT: Euer Foto vor der Rosenwand ist legendär. Enrika strahlt elegant, Emin zieht seine unnachahmliche Grimasse. Macht mir das jetzt nach.
+
+DATEINAME: round_15_boss.mp3
+TITEL: Der beste Freund des Hauses | KATEGORIE: PAAR DUELL
+TEXT: Onlinebestellungen und Pappkartons. Wer von euch beiden hält die Konsumwirtschaft am Laufen?
+
+DATEINAME: round_16_boss.mp3
+TITEL: Die Serien Verrat Akte | KATEGORIE: EHE ALLTAG
+TEXT: Netflix und Streaming sind der wahre Treuetest des einundzwanzigsten Jahrhunderts. Wer betrügt hier beim Weiterschauen?
+
+DATEINAME: round_17_boss.mp3
+TITEL: Der Kältetod im Schlafzimmer | KATEGORIE: PAAR DUELL
+TEXT: Das Thermometer trennt die Menschheit in Frostbeulen und Polarbären.
+
+DATEINAME: round_18_boss.mp3
+TITEL: Der Rücken Blindtest | KATEGORIE: LIVE MISSION
+TEXT: Blindes Vertrauen und feine Antennen. Jetzt testen wir wie gut eure sensorische Verbindung wirklich ist.
+
+DATEINAME: round_19_boss.mp3
+TITEL: Tosende Fluten und nasse Haare | KATEGORIE: FOTO VERHÖR
+TEXT: Wasserrauschen, Gischt im Gesicht, strahlende Laune. Wer hatte bei diesem Abenteuer mehr Angst nass zu werden?
+
+DATEINAME: round_20_boss.mp3
+TITEL: Das Badezimmer Monopol | KATEGORIE: PAAR DUELL
+TEXT: Zehn Minuten vor der Verabredung. Wer blockiert jetzt noch das Badezimmer?
+
+DATEINAME: round_21_boss.mp3
+TITEL: Die Gedankenübertragung | KATEGORIE: LIVE MISSION
+TEXT: Ihr behauptet ihr kennt euch in und auswendig? Dann beweist mir jetzt telepathische Übereinstimmung.
+
+DATEINAME: round_22_boss.mp3
+TITEL: Der Sonntagmorgen Spießer Test | KATEGORIE: QUIZ
+TEXT: Es ist Sonntag, 8 Uhr morgens. Wie verbringt ein echter Spießer ab Level 30 diesen heiligen Tag?
+
+DATEINAME: round_23_boss.mp3
+TITEL: Der Film Einschlaf Champion | KATEGORIE: PAAR DUELL
+TEXT: Ein packender Thriller auf dem Bildschirm. Die Spannung steigt. Wer sägt bereits leise auf dem Kissen?
+
+DATEINAME: round_24_boss.mp3
+TITEL: Lichtermeer am Bosporus | KATEGORIE: FOTO VERHÖR
+TEXT: Istanbul bei Nacht, die Brücke funkelt, die Stadt schläft nie. Wer von euch beiden wollte nach Mitternacht noch weiterziehen?
+
+DATEINAME: round_25_boss.mp3
+TITEL: Der Tauchstation Ernsthaftigkeitstest | KATEGORIE: LIVE MISSION
+TEXT: Eine Taucherbrille beim Kochen in der Küche? Im Amtsdeutsch nennt man das groben Unfug. Schafft ihr es, euch 15 Sekunden lang ernst in die Augen zu schauen ohne loszuprusten?
+
+DATEINAME: round_26_boss.mp3
+TITEL: Das Einpark Manöver | KATEGORIE: PAAR DUELL
+TEXT: Enge Parklücke, Bordsteinkante droht. Wer übernimmt das Kommando?
+
+DATEINAME: round_27_boss.mp3
+TITEL: Das Mysterium der Tupperdosen | KATEGORIE: QUIZ
+TEXT: Der absolute Kern des dreißigsten Geburtstags: Glasschüsseln mit Klickverschluss.
+
+DATEINAME: round_28_boss.mp3
+TITEL: Fünf Kosenamen ohne Pause | KATEGORIE: LIVE MISSION
+TEXT: Romantischer Wortschatz oder peinliche Kosenamen? Zeigt mir euer Repertoire.
+
+DATEINAME: round_29_boss.mp3
+TITEL: Das Akku Drama | KATEGORIE: PAAR DUELL
+TEXT: Drei Prozent Restakku und kein Ladekabel in Sicht. Wer lebt am Limit?
+
+DATEINAME: round_30_boss.mp3
+TITEL: Die Baumarkt Versuchung | KATEGORIE: QUIZ
+TEXT: Der dreißigste Geburtstag öffnet automatisch das Tor zu Schrauben, Dübeln und Gartenfräsen.
+
+DATEINAME: round_31_boss.mp3
+TITEL: Der Schwarzlicht Verrücktheits-Check | KATEGORIE: LIVE MISSION
+TEXT: 3D-Brillen, Neonlicht und hemmungsloser Spaß vor der Kamera. So benimmt sich doch keine gesetzte, seriöse Ehegemeinschaft!
+
+DATEINAME: round_32_boss.mp3
+TITEL: Der Dickkopf Pokal | KATEGORIE: PAAR DUELL
+TEXT: Eine Meinungsverschiedenheit bricht aus. Wer gibt als Erster klein bei?
+
+DATEINAME: round_33_boss.mp3
+TITEL: Das leuchtende Herz | KATEGORIE: FOTO VERHÖR
+TEXT: Ein riesiges leuchtendes Herz vor dunklem Himmel. Was war der wahre Grund für diesen Schnappschuss?
+
+DATEINAME: round_34_boss.mp3
+TITEL: Die geheime Snack Schatzkammer | KATEGORIE: PAAR DUELL
+TEXT: In jeder Ehe gibt es dunkle Geheimnisse. Die schlimmsten betreffen Süßigkeiten.
+
+DATEINAME: round_35_boss.mp3
+TITEL: Das Datums Duell im Rückwärtsgang | KATEGORIE: LIVE MISSION
+TEXT: Geburtstage und Hochzeitstage. Für viele Ehemänner das sichere Todesurteil.
+
+DATEINAME: round_36_boss.mp3
+TITEL: Der Rückenschmerz Paragraf | KATEGORIE: QUIZ
+TEXT: Ab 30 meldet sich die Lendenwirbelsäule pünktlich zum Frühstück.
+
+DATEINAME: round_37_boss.mp3
+TITEL: Die Schlummer Tasten Sucht | KATEGORIE: PAAR DUELL
+TEXT: Der Wecker klingelt um sieben. Wer drückt siebenmal auf Snooze?
+
+DATEINAME: round_38_boss.mp3
+TITEL: Der Lieblingsmoment des Jahrzehnts | KATEGORIE: LIVE MISSION
+TEXT: Zehn Jahre voller Erinnerungen, Reisen und Verrücktheiten. Glaubt ihr wirklich, dass ihr denselben Zauber im Kopf habt?
+
+DATEINAME: round_39_boss.mp3
+TITEL: Die Urlaubs Koffer Panne | KATEGORIE: QUIZ
+TEXT: Der Koffer kreist auf dem Gepäckband. Was passiert wenn er nicht auftaucht?
+
+DATEINAME: round_40_boss.mp3
+TITEL: Die Reiseplanung vs Spontanität | KATEGORIE: PAAR DUELL
+TEXT: Reiseführer mit Textmarkern oder einfach draufloslaufen?
+
+DATEINAME: round_41_boss.mp3
+TITEL: Das 25 Sekunden Flüster Versprechen | KATEGORIE: LIVE MISSION
+TEXT: Geheime Worte dringen nicht in meine Akten. Was habt ihr euch noch zu sagen?
+
+DATEINAME: round_42_boss.mp3
+TITEL: Das Geheimnis von Team Unbesiegbar | KATEGORIE: QUIZ
+TEXT: Mein Schutzwall wackelt bedenklich. Was macht euch eigentlich so unschlagbar?
+
+DATEINAME: round_43_boss.mp3
+TITEL: Die Rührungs Tränen | KATEGORIE: PAAR DUELL
+TEXT: Ein trauriges oder wunderschönes Filmende. Wer greift heimlich zum Taschentuch?
+
+DATEINAME: round_44_boss.mp3
+TITEL: Enrikas geheime Superkraft | KATEGORIE: DER EHE TEST
+TEXT: Dreißig Jahre Enrika. Was macht diese Frau eigentlich so besonders dass Emin sie jeden Tag anhimmelt wie am ersten Tag?
+
+DATEINAME: round_45_boss.mp3
+TITEL: Das Komplimente Dauerfeuer | KATEGORIE: LIVE MISSION
+TEXT: Mein System steht kurz vor dem totalen Zusammenbruch. Ihr wollt den Sieg? Dann beweist mir wie schnell ihr euch nette Dinge sagen könnt.
+
+DATEINAME: round_46_boss.mp3
+TITEL: Die unlösbare Liebesfrage | KATEGORIE: PAAR DUELL
+TEXT: Eine Frage die schon Tausende Ehen erschüttert hat.
+
+DATEINAME: round_47_boss.mp3
+TITEL: Der finale Spießer Schwur | KATEGORIE: QUIZ
+TEXT: Mein vorletzter Aktenordner brennt lichterloh. Wie wollt ihr die nächsten dreißig Jahre überstehen?
+
+DATEINAME: round_48_boss.mp3
+TITEL: Der Geburtstags Ehrentanz | KATEGORIE: LIVE MISSION
+TEXT: Letzte Zuckungen meiner Amtsgewalt. Zeigt mir den feierlichen Tanz vor dem Thron.
+
+DATEINAME: round_49_boss.mp3
+TITEL: Lord Dreißigs Kapitulationsurteil | KATEGORIE: QUIZ
+TEXT: Mein System hat noch genau einen Funken Restenergie. Was ist euer letztes Wort an die Behörde?
+
+DATEINAME: round_50_boss.mp3
+TITEL: Der 30er Kuss | KATEGORIE: DAS FINALE
+TEXT: Mein letzter Funke Widerstand. Dreißig Jahre Enrika lassen sich nicht aufhalten. Zeigt mir den finalen Abschluss.
+
+DATEINAME: intro_boss.mp3
+TITEL: Intro Warnung | KATEGORIE: INTRO
+TEXT: Akte Enrika liegt bereit. Mal sehen ob ihr dem Spießertum entkommen könnt.
+
+DATEINAME: victory_boss.mp3
+TITEL: Kapitulation | KATEGORIE: VICTORY
+TEXT: Ich gebe mich geschlagen. Ihr seid weder spießig noch vernünftig geworden. Ihr seid einfach nur unverschämt verliebt und habt viel zu viel Spaß zusammen. Level 30 ist hiermit offiziell freigegeben.
+
+
+======================================================================
+--- TEIL 2: SHOWMASTER PABLO (GAMESHOW-HOST & SCHIEDSRICHTER) ---
+Stimm-Tipp: Sympathisch, charismatisch, mitreißend
+
+DATEINAME: round_1_narrator.mp3
+TITEL: Die Akte 24. Oktober | KATEGORIE: AUFTAKT
+TEXT: Lord Dreißig startet die Kontrolle. Mit welcher Einstellung wehrt ihr den ersten bürokratischen Angriff ab? Antwort A: Wir kaufen uns ab heute Tupperdosen und gehen sonntags um 20 Uhr schlafen. Antwort B: Solange wir über dieselben absurden Dinge lachen altert hier überhaupt niemand. Antwort C: Wir stellen beim Amt einen Eilantrag auf fünf Jahre Verlängerung der Jugend.
+
+DATEINAME: round_2_narrator.mp3
+TITEL: Das Geheimnis des Lachanfalls | KATEGORIE: FOTO VERHÖR
+TEXT: Warum musste Enrika bei diesem wunderschönen Shooting vor den Felsen so unendlich herzlich lachen? Antwort A: Weil der Fotograf stolz versprochen hat dieses Bild wird absolut seriös. Antwort B: Weil Emin behauptet hat er kann klettern wie eine Bergziege. Antwort C: Weil Emin so dumm geguckt hat.
+
+DATEINAME: round_3_narrator.mp3
+TITEL: Das Pommes Gesetz | KATEGORIE: PAAR DUELL
+TEXT: Schaut euch an und tippt gleichzeitig. Wer von euch beiden bestellt nur einen kleinen Salat weil angeblich kein Hunger da ist, isst dann aber die Hälfte von Emins Pommes weg? Wer behauptet keinen Hunger zu haben und isst dann fremde Pommes?
+
+DATEINAME: round_4_narrator.mp3
+TITEL: Der Handtaschen Schnelltest | KATEGORIE: LIVE MISSION
+TEXT: Emin muss jetzt innerhalb von 20 Sekunden vier Gegenstände aufzählen die Enrika jeden Tag begeleiten, Enrika muss bestätigen ob das stimmt. Startet den Timer. Emin zählt vier Gegenstände auf. Enrika gibt das Urteil.
+
+DATEINAME: round_5_narrator.mp3
+TITEL: Traumausblick mit Meeresrauschen | KATEGORIE: FOTO VERHÖR
+TEXT: Wann haben Enrika und Emin diesen wunderschönen Ausblick bei einem Kaffee genossen? Antwort A: Ende August 2024 nach einer wilden Taxifahrt. Antwort B: Mitte Juli 2023 nach zehn Stunden Flugverspätung. Antwort C: Anfang Mai 2024 kurz vor dem ersten großen Wolkenbruch.
+
+DATEINAME: round_6_narrator.mp3
+TITEL: Vollgas im Elektroflitzer | KATEGORIE: FOTO VERHÖR
+TEXT: Wann durfte Enrika das allererste Mal das neue Auto selbst über den Asphalt steuern? Antwort A: Erst nachdem Emin alle vier Felgen mit Luftpolsterfolie abgeklebt hat. Antwort B: Erst im Hochsommer als Emin nach drei Stunden Fahrt die Augen zugefallen sind. Antwort C: Ende Februar als das Auto neu dazu kam.
+
+DATEINAME: round_7_narrator.mp3
+TITEL: Google Maps gegen Männerstolz | KATEGORIE: PAAR DUELL
+TEXT: Schaut euch an und stimmt ab. Wer verfährt sich laut Navigation um einen halben Kilometer und behauptet felsenfest das sei eine geheime Abkürzung? Wer weigert sich umzudrehen weil das angeblich eine Abkürzung ist?
+
+DATEINAME: round_8_narrator.mp3
+TITEL: Romantik am Atlantik | KATEGORIE: FOTO VERHÖR
+TEXT: Was war der unvergessliche Anlass für dieses wunderschöne Foto am Strand? Antwort A: Emin hat behauptet er sieht die Milchstraße und es war ein Passagierflugzeug nach Madrid. Antwort B: Das war unser allererster Abend in Gran Canaria. Antwort C: Enrika hat mitten im Sand festgestellt dass sie ihre Lieblingssandalen im Taxi vergessen hat.
+
+DATEINAME: round_9_narrator.mp3
+TITEL: Die schwerste Frage der Menschheit | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden sagt zuerst mir ist total egal was wir essen, lehnt dann aber fünf Restaurants hintereinander ab? Wer sagt mir egal, findet dann aber an jedem Vorschlag einen Haken?
+
+DATEINAME: round_10_narrator.mp3
+TITEL: Frischer Wind über zwei Kontinenten | KATEGORIE: FOTO VERHÖR
+TEXT: Wann fand diese stürmische und wunderschöne Bootsfahrt in Istanbul statt? Antwort A: April 2025 als alle keine Lust hatten an dem Tag. Antwort B: April 2024 als frühlicher Spaziergang auf dem Wasser. Antwort C: Mai 2025 bei dreißig Grad im Schatten.
+
+DATEINAME: round_11_narrator.mp3
+TITEL: 30 Sekunden Augenduell | KATEGORIE: LIVE MISSION
+TEXT: iPad oder Handy ablegen. Schaut euch dreißig Sekunden lang tief in die Augen ohne wegzusehen und ohne zu grinsen. Startet den Timer. Dreißig Sekunden ehrlicher Blickkontakt. Wer zuerst kichert verliert.
+
+DATEINAME: round_12_narrator.mp3
+TITEL: Logistik vor der Abreise | KATEGORIE: PAAR DUELL
+TEXT: Schaut euch an und tippt. Wer packt für einen Dreitageausflug vierzehn verschiedene Outfits ein für den Fall eines spontanen Empfangs beim Bundespräsidenten? Wer packt dreimal mehr Kleidung ein als jemals getragen werden kann?
+
+DATEINAME: round_13_narrator.mp3
+TITEL: Das offizielle Ja Wort | KATEGORIE: HOCHZEITSSPEZIAL
+TEXT: Was ging euch beiden bei der Unterschrift im Standesamt durch den Kopf? Antwort A: Hoffentlich passt der Ring sonst muss Emin zur Nagelfeile greifen. Antwort B: Wann wird endlich das Hochzeitsbuffet eröffnet, der Magen knurrt seit drei Stunden. Antwort C: Ab heute ganz offiziell Team Unbesiegbar, kein Zurück mehr und das ist das Beste überhaupt.
+
+DATEINAME: round_14_narrator.mp3
+TITEL: Die Pose des Jahrhunderts | KATEGORIE: LIVE MISSION
+TEXT: Stellt genau diese Pose gemeinsam auf der Couch für fünfzehn Sekunden nach. Enrika stützt das Kinn sanft auf die Hände, Emin zieht seine berühmte Grimasse. Fünfzehn Sekunden halten.
+
+DATEINAME: round_15_narrator.mp3
+TITEL: Der beste Freund des Hauses | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden bekommt mehr Pakete geliefert und versteckt die Kartons dezent im Flur? Wer kennt den DHL Boten mit Vornamen und bekommt täglich Päckchen?
+
+DATEINAME: round_16_narrator.mp3
+TITEL: Die Serien Verrat Akte | KATEGORIE: EHE ALLTAG
+TEXT: Was passiert wenn einer von euch heimlich eine Folge der gemeinsamen Lieblingsserie vorarbeitet? Antwort A: Wir schauen Serien nur noch mit notarieller Beglaubigung zusammen. Antwort B: Emin schwört er hat nicht weitergeschaut, kennt aber verdächtig genau schon den Mörder. Antwort C: Enrika wartet immer brav, selbst wenn die Fortsetzung erst in zwei Jahren erscheint.
+
+DATEINAME: round_17_narrator.mp3
+TITEL: Der Kältetod im Schlafzimmer | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden dreht die Heizung nachts heimlich herunter oder reißt bei Minusgraden das Fenster sperrangelweit auf? Wer schläft am liebsten im arktischen Eisschrank und wer braucht drei Daunendecken?
+
+DATEINAME: round_18_narrator.mp3
+TITEL: Der Rücken Blindtest | KATEGORIE: LIVE MISSION
+TEXT: Emin malt mit dem Finger langsam ein Symbol oder ein kurzes Wort wie Herz, Stern oder Sonne auf Enrikas Rücken. Enrika muss es innerhalb von zwanzig Sekunden mit geschlossenen Augen blind erraten. Startet den Timer. Emin zeichnet ein Symbol mit dem Finger auf Enrikas Rücken. Enrika errät es blind.
+
+DATEINAME: round_19_narrator.mp3
+TITEL: Tosende Fluten und nasse Haare | KATEGORIE: FOTO VERHÖR
+TEXT: Was war der geheime Höhepunkt dieses Ausflugs zu den Wasserfällen? Antwort A: Enrika wollte unbedingt mit den Fischen um die Wette tauchen. Antwort B: Das Boot ist rückwärts wieder den Wasserfall hochgefahren. Antwort C: Emin hat krampfhaft versucht seine Frisur vor dem Wind zu retten.
+
+DATEINAME: round_20_narrator.mp3
+TITEL: Das Badezimmer Monopol | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden braucht morgens oder vor Partys dreimal länger im Bad und behauptet bin in zwei Minuten fertig? Wer braucht länger im Bad und definiert zwei Minuten extrem großzügig?
+
+DATEINAME: round_21_narrator.mp3
+TITEL: Die Gedankenübertragung | KATEGORIE: LIVE MISSION
+TEXT: Zählt gemeinsam laut von Drei herunter und ruft auf Eins gleichzeitig euer absolutes gemeinsames Lieblingsessen für einen gemütlichen Couchabend aus. Startet den Timer. Zählt von Drei herunter und ruft gleichzeitig euer Lieblingsessen aus. Bei Treffer Mission abschließen.
+
+DATEINAME: round_22_narrator.mp3
+TITEL: Der Sonntagmorgen Spießer Test | KATEGORIE: QUIZ
+TEXT: Was ist das verbotenste Verhalten an einem Sonntagmorgen für Enrika und Emin? Antwort A: Vor 10 Uhr aufstehen um den Rasen auf exakt 3 Millimeter zu stutzen. Antwort B: Im Bett Kaffee trinken und bis mittags gemeinsam Serien schauen. Antwort C: Spontan beschließen Brötchen zu holen und mit frischen Croissants zurückkommen.
+
+DATEINAME: round_23_narrator.mp3
+TITEL: Der Film Einschlaf Champion | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden schläft nach genau zehn Minuten Film auf der Couch ein und sagt beim Wecken ich hab nur kurz die Augen ausgeruht? Wer schläft beim Film zuerst ein und behauptet er hat alles mitbekommen?
+
+DATEINAME: round_24_narrator.mp3
+TITEL: Lichtermeer am Bosporus | KATEGORIE: FOTO VERHÖR
+TEXT: Was war das Unvergesslichste an dieser magischen Nacht in Istanbul? Antwort A: Dass Emin nach dem besten Döner der Stadt gesucht hat. Antwort B: Dass Enrika vorgeschlagen hat die Brücke zu Fuß nach Asien zu überqueren. Antwort C: Dass beide um 21 Uhr mit Kamillentee im Hotelzimmer saßen.
+
+DATEINAME: round_25_narrator.mp3
+TITEL: Der Tauchstation Ernsthaftigkeitstest | KATEGORIE: LIVE MISSION
+TEXT: Schaut euch dieses legendäre Küchenfoto an. Blickt euch danach 15 Sekunden lang gegenseitig tief in die Augen und behaltet ein eiskaltes Pokerface. Startet den Timer. Fünfzehn Sekunden lang tief in die Augen schauen – wer zuerst lacht oder grinst, verliert die Runde.
+
+DATEINAME: round_26_narrator.mp3
+TITEL: Das Einpark Manöver | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden korrigiert heimlich die Parkposition oder steigt mit einem skeptischen Blick aus dem Auto? Wer kontrolliert nach dem Einparken noch dreimal den Abstand zum Bordstein?
+
+DATEINAME: round_27_narrator.mp3
+TITEL: Das Mysterium der Tupperdosen | KATEGORIE: QUIZ
+TEXT: Wohin verschwinden im Haushalt von Enrika und Emin eigentlich immer die Tupperdosendeckel? Antwort A: Emin faltet sie akkurat und stapelt sie nach Größe im Schrank. Antwort B: Enrika verschenkt sie heimlich an Bedürftige. Antwort C: Enrika bringt sie immer mit zur Arbeit und vergisst sie dann.
+
+DATEINAME: round_28_narrator.mp3
+TITEL: Fünf Kosenamen ohne Pause | KATEGORIE: LIVE MISSION
+TEXT: Emin und Enrika müssen sich abwechselnd innerhalb von 15 Sekunden fünf originelle Kosenamen zuwerfen ohne zu stocken. Startet den Timer. Abwechselnd fünf Kosenamen nennen. Schatz und Maus zählen nur einmal.
+
+DATEINAME: round_29_narrator.mp3
+TITEL: Das Akku Drama | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden hat ständig einen roten Akkubalken und fragt verzweifelt hast du kurz dein Ladekabel? Wer verlässt das Haus regelmäßig mit fünf Prozent Akku?
+
+DATEINAME: round_30_narrator.mp3
+TITEL: Die Baumarkt Versuchung | KATEGORIE: QUIZ
+TEXT: Was passiert wenn Emin an einem Samstagnachmittag zufällig einen Baumarkt betritt? Antwort A: Er kauft gar nichts weil er nichts damit anstellen kann, sondern Enrika. Antwort B: Er dreht sofort um weil ihm die Gerüche von Holz und Farbe Kopfschmerzen bereiten. Antwort C: Er kauft ausschließlich Zimmerpflanzen und Duftkerzen.
+
+DATEINAME: round_31_narrator.mp3
+TITEL: Der Schwarzlicht Verrücktheits-Check | KATEGORIE: LIVE MISSION
+TEXT: Schaut euch diese Party-Energie an! Steht auf und feiert oder tanzt zwanzig Sekunden lang euren verrücktesten Paartanz mitten im Raum. Startet den Timer. Zwanzig Sekunden Party-Action auf der Couch oder im Wohnzimmer.
+
+DATEINAME: round_32_narrator.mp3
+TITEL: Der Dickkopf Pokal | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden ist sturer beim Streiten und braucht länger um zuzugeben dass der andere recht hatte? Wer behält lieber recht als Frieden zu schließen?
+
+DATEINAME: round_33_narrator.mp3
+TITEL: Das leuchtende Herz | KATEGORIE: FOTO VERHÖR
+TEXT: Was beweist dieses Foto über die Liebe von Enrika und Emin? Antwort A: Dass Emin nur stehengeblieben ist weil er dachte es gibt kostenlose Zuckerwatte. Antwort B: Dass beide zusammen heller strahlen als jede LED Installation dieser Stadt. Antwort C: Dass Enrika das Herz für ihren Instagram Feed exakt 47 Mal fotografiert hat.
+
+DATEINAME: round_34_narrator.mp3
+TITEL: Die geheime Snack Schatzkammer | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden versteckt Schokolade, Chips oder Gummibärchen vor dem anderen an geheimen Orten? Wer bunkert heimlich Snacks und behauptet die Packung war schon leer?
+
+DATEINAME: round_35_narrator.mp3
+TITEL: Das Datums Duell im Rückwärtsgang | KATEGORIE: LIVE MISSION
+TEXT: Emin muss innerhalb von zwanzig Sekunden Enrikas Geburtstag und das Hochzeitsdatum rückwärts fehlerfrei aufsagen. Startet den Timer. Emin sagt beide Daten rückwärts auf. Enrika stoppt mit.
+
+DATEINAME: round_36_narrator.mp3
+TITEL: Der Rückenschmerz Paragraf | KATEGORIE: QUIZ
+TEXT: Was ist das erste offizielle Symptom für das Überschreiten der Dreißiger-Grenze? Antwort A: Man abonniert freiwillig die Zeitschrift Schöner Wohnen und Gartenfreunde. Antwort B: Man kauft sich orthopädische Hausschuhe mit ergonomischem Fußbett. Antwort C: Man macht beim Aufstehen von der Couch plötzlich ein tiefes Seufz-Geräusch.
+
+DATEINAME: round_37_narrator.mp3
+TITEL: Die Schlummer Tasten Sucht | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden stellt sich morgens fünf Wecker im Fünf-Minuten-Takt und steht trotzdem erst um halb acht auf? Wer ist morgens die größere Schlafmütze und braucht die Snooze-Taste wie die Luft zum Atmen?
+
+DATEINAME: round_38_narrator.mp3
+TITEL: Der Lieblingsmoment des Jahrzehnts | KATEGORIE: LIVE MISSION
+TEXT: Beide schließen für 15 Sekunden fest die Augen und reisen gedanklich durch euer gemeinsames letztes Jahrzehnt. Wenn der Timer abläuft, öffnet ihr die Augen und erzählt euch euren absoluten Lieblingsmoment miteinander. Startet den Timer. Beide schließen 15 Sekunden lang die Augen und denken an euer letztes Jahrzehnt. Bei Null verratet ihr euch euren schönsten Moment.
+
+DATEINAME: round_39_narrator.mp3
+TITEL: Die Urlaubs Koffer Panne | KATEGORIE: QUIZ
+TEXT: Was ist die beste Methode für Enrika und Emin wenn am Urlaubsziel das Gepäck fehlt? Antwort A: Drei Tage am Schalter der Fluggesellschaft lautstark Paragrafen vorlesen. Antwort B: Einfach Badesachen und Zahnbürste kaufen und das Leben trotzdem in vollen Zügen genießen. Antwort C: Sofort den nächsten Flug nach Hause buchen und schmollen.
+
+DATEINAME: round_40_narrator.mp3
+TITEL: Die Reiseplanung vs Spontanität | KATEGORIE: PAAR DUELL
+TEXT: Wer plant im Urlaub jedes Museum und jede Mahlzeit auf die Minute vor und wer sagt lass uns einfach schauen wo es nett ist? Wer hat den minutiösen Ablaufplan und wer stolpert einfach ins Abenteuer?
+
+DATEINAME: round_41_narrator.mp3
+TITEL: Das 25 Sekunden Flüster Versprechen | KATEGORIE: LIVE MISSION
+TEXT: Flüstert euch abwechselnd innerhalb von 25 Sekunden drei Dinge ins Ohr die ihr am anderen über alles liebt. Startet den Timer. Drei intime Worte ins Ohr flüstern. Enrika beginnt.
+
+DATEINAME: round_42_narrator.mp3
+TITEL: Das Geheimnis von Team Unbesiegbar | KATEGORIE: QUIZ
+TEXT: Was ist das wahre Fundament eurer Ehe das euch vor jedem Spießertum schützt? Antwort A: Dass wir beste Freunde sind, bedingungslos zusammenhalten und jeden Tag gemeinsam lachen. Antwort B: Dass wir einen gemeinsamen Bausparvertrag mit vier Prozent Zinsen abgeschlossen haben. Antwort C: Dass Emin immer pünktlich den Müll raus bringt.
+
+DATEINAME: round_43_narrator.mp3
+TITEL: Die Rührungs Tränen | KATEGORIE: PAAR DUELL
+TEXT: Wer von euch beiden weint schneller bei emotionalen Filmszenen und behauptet da war nur Staub im Auge? Wer weint zuerst bei romantischen Liebesfilmen?
+
+DATEINAME: round_44_narrator.mp3
+TITEL: Enrikas geheime Superkraft | KATEGORIE: DER EHE TEST
+TEXT: Was ist Enrikas stärkste und schönste Eigenschaft? Antwort A: Dass sie Emin jeden Samstag pünktlich an die Kehrwoche und den Hausputz erinnert. Antwort B: Dass sie stundenlang über Küchengeräte und Rabattgutscheine fachsimpeln kann. Antwort C: Ihr unverwechselbares Lachen, ihre pure Herzenswärme und die Art wie sie jeden Raum heller macht.
+
+DATEINAME: round_45_narrator.mp3
+TITEL: Das Komplimente Dauerfeuer | KATEGORIE: LIVE MISSION
+TEXT: Zwanzig Sekunden lang abwechselnd ohne Pause Komplimente machen. Startet den Timer. Abwechselnd im Sekundentakt etwas Nettes sagen ohne zu stocken und ohne zu zögern.
+
+DATEINAME: round_46_narrator.mp3
+TITEL: Die unlösbare Liebesfrage | KATEGORIE: PAAR DUELL
+TEXT: Wer liebt den anderen ein winziges bisschen mehr auf dieser Welt? Wer hat das größere Herz für den anderen?
+
+DATEINAME: round_47_narrator.mp3
+TITEL: Der finale Spießer Schwur | KATEGORIE: QUIZ
+TEXT: Mit welchem feierlichen Versprechen besiegelt ihr euren gemeinsamen Weg durch Level 30? Antwort A: Wir geloben ab morgen ausschließlich beige Kleidung und Funktionsjacken zu tragen. Antwort B: Wir versprechen für immer albern, verliebt, unvernünftig und füreinander da zu sein. Antwort C: Wir verpflichten uns zu sonntäglichen Autowäschen mit der Zahnbürste.
+
+DATEINAME: round_48_narrator.mp3
+TITEL: Der Geburtstags Ehrentanz | KATEGORIE: LIVE MISSION
+TEXT: Emin steht auf, nimmt Enrika an beiden Händen und dreht sie einmal schwungvoll wie eine Königin im Kreis. Startet den Timer. Emin dreht Enrika feierlich und schwungvoll im Kreis.
+
+DATEINAME: round_49_narrator.mp3
+TITEL: Lord Dreißigs Kapitulationsurteil | KATEGORIE: QUIZ
+TEXT: Was antwortet ihr Lord Dreißig kurz vor seinem endgültigen K.O.? Antwort A: Dreißig ist nur eine Zahl, aber unsere Liebe ist für immer unbesiegbar. Antwort B: Wir unterschreiben freiwillig die lebenslange Spießerurkunde. Antwort C: Können wir den Termin bitte auf nächsten Dienstag verschieben?
+
+DATEINAME: round_50_narrator.mp3
+TITEL: Der 30er Kuss | KATEGORIE: DAS FINALE
+TEXT: Der feierliche Moment. Besiegelt den offiziellen Eintritt in das beste Jahrzehnt eures Lebens. Nehmt euch fest in den Arm, gebt euch einen innigen Geburtstagskuss und wünscht euch gemeinsam das beste Lebensjahr aller Zeiten.
+
+DATEINAME: start_page.mp3
+TITEL: Startseite Intro | KATEGORIE: INTRO
+TEXT: Eigentlich droht ab heute die gesetzliche Verpflichtung zu Samstagsausflügen in den Baumarkt, Tupperdosen und Gesprächen über Rückenschmerzen. Doch bevor Enrika die 30 offiziell betreten darf, prüft Lord Dreißig vom Amt für Seriösität eure Beziehung auf Herz und Nieren. Beweist ihm auf der Couch, dass ihr viel zu verliebt und viel zu unvernünftig seid, um spießig zu werden!
+
+
+======================================================================
+--- TEIL 3: INTERAKTIVE SHOWMASTER-SPRÜCHE (CHALLENGE-TIMER & BEDENKZEIT) ---
+Werden dynamisch bei Countdown und beim Überlegen abgespielt
+
+DATEINAME: pablo_timer_start_1.mp3
+TITEL: Timer Start 1 | KATEGORIE: CHALLENGE_TIMER
+TEXT: Und die Zeit läuft! Zeigt was ihr könnt!
+
+DATEINAME: pablo_timer_start_2.mp3
+TITEL: Timer Start 2 | KATEGORIE: CHALLENGE_TIMER
+TEXT: Auf die Plätze, fertig, los!
+
+DATEINAME: pablo_timer_warning_1.mp3
+TITEL: Timer Warnung 1 | KATEGORIE: CHALLENGE_TIMER
+TEXT: Die Zeit ist gleich rum, haltet durch!
+
+DATEINAME: pablo_timer_warning_2.mp3
+TITEL: Timer Warnung 2 | KATEGORIE: CHALLENGE_TIMER
+TEXT: Endspurt! Nur noch wenige Sekunden!
+
+DATEINAME: pablo_timer_warning_3.mp3
+TITEL: Timer Warnung 3 | KATEGORIE: CHALLENGE_TIMER
+TEXT: Noch fünf Sekunden, gebt alles!
+
+DATEINAME: pablo_timer_finish_1.mp3
+TITEL: Timer Ende | KATEGORIE: CHALLENGE_TIMER
+TEXT: Und Stopp! Die Zeit ist um!
+
+DATEINAME: pablo_challenge_win_1.mp3
+TITEL: Challenge Erfolg | KATEGORIE: CHALLENGE_WIN
+TEXT: Großartig gemacht! Volle Punktzahl für das Traumpaar!
+
+DATEINAME: pablo_banter_1.mp3
+TITEL: Frage Nachhaken 1 | KATEGORIE: QUESTION_BANTER
+TEXT: Was denkt ihr? Ich bin echt gespannt was ihr auswählt!
+
+DATEINAME: pablo_banter_2.mp3
+TITEL: Frage Nachhaken 2 | KATEGORIE: QUESTION_BANTER
+TEXT: Sprecht euch gut ab, lasst euch von Lord Dreißig nicht verunsichern!
+
+DATEINAME: pablo_banter_3.mp3
+TITEL: Frage Nachhaken 3 | KATEGORIE: QUESTION_BANTER
+TEXT: Gar nicht so einfach! Was sagt euer Bauchgefühl?
+
+DATEINAME: pablo_banter_4.mp3
+TITEL: Frage Nachhaken 4 | KATEGORIE: QUESTION_BANTER
+TEXT: Ich halte den Atem an... auf was tippt ihr?
+
+DATEINAME: pablo_banter_5.mp3
+TITEL: Frage Nachhaken 5 | KATEGORIE: QUESTION_BANTER
+TEXT: Keine falsche Bescheidenheit, hört auf euer Herz!
+
