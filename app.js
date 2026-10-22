@@ -1399,7 +1399,7 @@ class EnrikaGame {
         <img class="polaroid-img" src="${photo.src}" alt="Erinnerung" loading="lazy">
         <p class="polaroid-caption">${photo.caption}</p>
       `;
-      card.addEventListener('click', () => this.openLightbox(photo.src));
+      card.addEventListener('click', () => this.openLightbox(photo.src, photo.caption));
       this.polaroidGrid.appendChild(card);
     });
   }
